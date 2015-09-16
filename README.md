@@ -1,1 +1,2 @@
 # funtime
+a simple webapp
