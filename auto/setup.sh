@@ -9,3 +9,4 @@ cp -r /root/funtime/nginx /etc
 cp /root/funtime/src/index.php /usr/share/nginx/html/
 
 rm -rf /root/funtime
+/etc/init.d/nginx restart
